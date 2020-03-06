@@ -1,9 +1,19 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(226, 162, 43);
 }
 
 h1{
     color: aliceblue;
     font-size: 30px;
+    text-align: center;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    border: rgba(83, 190, 64, 0.849) 10px  ridge;
+    margin-right: auto;
+    margin-left: auto;
+    background: rgb(98, 221, 221);
     text-align: center;
 }
